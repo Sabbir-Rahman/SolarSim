@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/Unity/Solar System Simulation/Builds/Android/SolarSystem.apk
+C:/Users/User/Documents/github unity/SolarSim/Solar System Simulation/Builds/Android/SolarSystem.apk
 SceneListBegin?
 Assets/Scenes/Solar System.unity
 SceneListEnd?
